@@ -1,4 +1,4 @@
-# Use Watson Discovery News to analyze cryptocurrency sentiment
+# Use Watson Discovery News and Natural Language Understanding
 
 In this example, we will use Watson Discovery News in order to query articles and then we use Watson Natural Language Understanding to obtain extra enrichments for each article.
 
